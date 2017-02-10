@@ -119,9 +119,12 @@ While React is definitely far from being the only UI library that exists out the
 ## What next?
 To be well prepared for next week, follow this FREE online course from [egghead.io](https://egghead.io). Even though it will be brutal, it will expose you to a lot of the concepts that we will look at early next week.
 
-<p align="center">
+
   <a href="https://egghead.io/courses/react-fundamentals">
-    <h1>React Fundamentals</h1>
-    <img src="https://d2eip9sf3oo6c2.cloudfront.net/series/covers/000/000/003/full/course_banner.png?1457396165">
+    <h1>
+      <p align="center">React Fundamentals</p>
+    </h1>
+    <p align="center">
+      <img src="https://d2eip9sf3oo6c2.cloudfront.net/series/covers/000/000/003/full/course_banner.png?1457396165">
+    </p>
   </a>
-</p>
